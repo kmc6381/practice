@@ -14,8 +14,11 @@ function Header() {
                     <li>자유게시판</li>
                     <li>자유게시판</li> <li>자유게시판</li>
                     <li>자유게시판</li> <li>자유게시판</li>
+<<<<<<< HEAD
                     <li>자유게시판</li> <li>자유게시판</li>
                     
+=======
+>>>>>>> kang1
                 </ul>
             </nav>
             <div className="search-bar">
